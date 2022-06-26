@@ -1,6 +1,7 @@
-# dicoding_submission1
+# Submission Dicoding Belajar Membuat Aplikasi Flutter Pemula
 
-A new Flutter project.
+PlantFix
+- 
 
 ## Getting Started
 
