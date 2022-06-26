@@ -1,7 +1,10 @@
 # Submission Dicoding Belajar Membuat Aplikasi Flutter Pemula
 
 PlantFix
-- 
+<p align="center">
+  <img src="1.png" width="350" alt="accessibility text">
+   <img src="2.png" width="350" alt="accessibility text">
+</p>
 
 ## Getting Started
 
