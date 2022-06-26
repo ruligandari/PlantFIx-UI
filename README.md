@@ -9,6 +9,9 @@
 # Feature
 - Sliding Up Panel with ListView.builder()
 - image network
+- scanning object with camera (plant disease's)
+- machine learning model (mybe in the future)
+- this app can be use for identification plant's disesea, and how to controlling plant's disesea
 
 ## Getting Started
 
