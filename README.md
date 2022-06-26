@@ -12,6 +12,7 @@
 - scanning object with camera (plant disease's)
 - machine learning model (mybe in the future)
 - this app can be use for identification plant's disesea, and how to controlling plant's disesea
+- building with flutter 3.0.2
 
 ## Getting Started
 
