@@ -1,10 +1,14 @@
 # Submission Dicoding Belajar Membuat Aplikasi Flutter Pemula
 
-PlantFix
+# PlantFix
 <p align="center">
   <img src="1.png" width="350" alt="accessibility text">
    <img src="2.png" width="350" alt="accessibility text">
 </p>
+
+# Feature
+- Sliding Up Panel with ListView.builder()
+- image network
 
 ## Getting Started
 
